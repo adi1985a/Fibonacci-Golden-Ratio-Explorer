@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1678055678 source:c:\users\hp\desktop\portfolio programy na github\c++\programs\sequence of fibonacci numbers\main.cpp
+	<iostream>
+	<windows.h>
+	<cstdlib>
+	<string.h>
+	<time.h>
+	<random>
+	<stdio.h>
+	<iomanip>
+
