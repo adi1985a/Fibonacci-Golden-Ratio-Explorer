@@ -9,6 +9,8 @@ _A C++ console application for calculating extensive Fibonacci sequences, explor
 
 The **Fibonacci & Golden Ratio Explorer** is an insightful C++ console application designed for the computation and analysis of the Fibonacci sequence and its fascinating connection to the golden ratio (Phi, φ). Users can generate Fibonacci sequences up to a remarkable 100,000 terms, with the application efficiently calculating each number. It also computes an approximation of the golden ratio based on the generated sequence. The program features a colorful user interface for enhanced readability, robust input validation, the ability to save calculation results to a file (`fibonacci_results.txt`), load previous results, and log any operational errors to `fibonacci.log`.
 
+![Demo GIF](screenshots/1.gif)
+
 ## ✨ Key Features
 
 *   🔢 **Extensive Fibonacci Sequence Calculation**: Generate the Fibonacci sequence for a user-specified number of terms, supporting up to 100,000 numbers.
@@ -23,9 +25,15 @@ The **Fibonacci & Golden Ratio Explorer** is an insightful C++ console applicati
 
 ## 🖼️ Screenshots
 
-**Coming soon!**
+_Screenshots showcasing the main menu, Fibonacci sequence output, golden ratio calculation, and file content examples._
 
-_This section will be updated with screenshots showcasing the main menu, Fibonacci sequence output, golden ratio calculation, and file content examples._
+<p align="center">
+  <img src="screenshots\1.jpg" width="300"/>
+  <img src="screenshots\2.jpg" width="300"/>
+  <img src="screenshots\3.jpg" width="300"/>
+  <img src="screenshots\4.jpg" width="300"/>
+  <img src="screenshots\5.jpg" width="300"/>
+</p>
 
 ## ⚙️ System Requirements
 
