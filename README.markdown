@@ -32,7 +32,7 @@ _Screenshots showcasing the main menu, Fibonacci sequence output, golden ratio c
   <img src="screenshots\2.jpg" width="300"/>
   <img src="screenshots\3.jpg" width="300"/>
   <img src="screenshots\4.jpg" width="300"/>
-  <img src="screenshots\5.jpg" width="300"/>
+  <img src="screenshots\5.JPG" width="300"/>
 </p>
 
 ## ⚙️ System Requirements
