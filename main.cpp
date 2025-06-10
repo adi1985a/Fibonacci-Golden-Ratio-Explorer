@@ -43,8 +43,8 @@ public:
         system("cls");
         SetConsoleTextAttribute(GetStdHandle(STD_OUTPUT_HANDLE), CYAN);
         cout << "************************************************\n";
-        cout << "*     Fibonacci Sequence Calculator v2.0         *\n";
-        cout << "*     Created by: Adrian Lesniak                *\n";
+        cout << "*     Fibonacci Sequence Calculator v2.0       *\n";
+        cout << "*     Created by: Adrian Lesniak               *\n";
         cout << "************************************************\n\n";
         SetConsoleTextAttribute(GetStdHandle(STD_OUTPUT_HANDLE), WHITE);
         cout << "Program features:\n";
